@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1515455151 source:c:\users\w這dzimierz\desktop\lab_3v2\apteki\board.cpp
+	<iostream>
+	"Board.h"
+
+1515451773 c:\users\w這dzimierz\desktop\lab_3v2\apteki\board.h
+	<iostream>
+	"Cel.h"
+
+1515452687 c:\users\w這dzimierz\desktop\lab_3v2\apteki\cel.h
+	<iostream>
+
+1515450470 source:c:\users\w這dzimierz\desktop\lab_3v2\apteki\cel.cpp
+	<iostream>
+	"Cel.h"
+
+1515525230 source:c:\users\w這dzimierz\desktop\lab_3v2\apteki\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Cel.h"
+	"Board.h"
+	"Tracker.h"
+	"Cel_T.cpp"
+	"Board_T.cpp"
+	"Tracker_T.cpp"
+	"Apteka.h"
+	"Lek.h"
+
+1515452362 c:\users\w這dzimierz\desktop\lab_3v2\apteki\tracker.h
+	<iostream>
+	"Board.h"
+
+1515450558 source:c:\users\w這dzimierz\desktop\lab_3v2\apteki\tracker.cpp
+	<iostream>
+	"Tracker.h"
+
+1515457186 source:c:\users\w這dzimierz\desktop\lab_3v2\apteki\cel_t.cpp
+	<iostream>
+
+1515457079 source:c:\users\w這dzimierz\desktop\lab_3v2\apteki\board_t.cpp
+	<iostream>
+
+1515520072 source:c:\users\w這dzimierz\desktop\lab_3v2\apteki\apteka.cpp
+	<iostream>
+	"Apteka.h"
+
+1515464721 c:\users\w這dzimierz\desktop\lab_3v2\apteki\apteka.h
+	<iostream>
+	<string>
+
+1515523193 source:c:\users\w這dzimierz\desktop\lab_3v2\apteki\lek.cpp
+	<iostream>
+	"Lek.h"
+
+1515525128 c:\users\w這dzimierz\desktop\lab_3v2\apteki\lek.h
+	<iostream>
+	<string>
+
+1515463985 source:c:\users\w這dzimierz\desktop\lab_3v2\apteki\tracker_t.cpp
+	<iostream>
+
+1515457186 c:\users\w這dzimierz\desktop\lab_3v2\apteki\cel_t.cpp
+	<iostream>
+
+1515457079 c:\users\w這dzimierz\desktop\lab_3v2\apteki\board_t.cpp
+	<iostream>
+
+1515463985 c:\users\w這dzimierz\desktop\lab_3v2\apteki\tracker_t.cpp
+	<iostream>
+
